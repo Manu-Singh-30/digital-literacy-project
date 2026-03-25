@@ -1,52 +1,76 @@
 # Digital Literacy Project
-CSE0001 Digital Literacy Project - Manu Singh
 
 ## Student Details
-- Name: Manu Singh
-- Registration No: 25BAI10968
-- Branch: CSE-AIML
-- Year: 2025-batch(1st year)
+- Name: Manu Singh  
+- Registration Number: 25BAI10968  
+- Branch: CSE-AIML  
+- Year: 1st Year(2025-batch) 
 
 ---
 
-## 📌 Project Overview
-This repository contains my Digital Literacy Portfolio created as part of CSE0001 course. It includes five tasks covering digital awareness, professional presence, platforms, communication, and cyber safety.
+## Project Overview
+This repository contains my Digital Literacy Portfolio created as part of the CSE0001 course. The project focuses on developing essential digital skills such as creating visual content, building a professional online presence, understanding online platforms, practicing email etiquette, and learning about cyber safety.
+
+All five tasks are organized into separate folders, along with a detailed project report documenting my work and learnings.
 
 ---
 
 ## Repository Structure
-
-- Task 1: Digital Literacy Infographic
-- Task 2: Student Digital Portfolio
-- Task 3: Coding & Collaboration Platforms
-- Task 4: Email Etiquette
-- Task 5: Cybercrime Awareness
-
----
-
-## 🔗 Useful Links
-- Google Form (Task 3): https://forms.gle/yAiL6GVj1mE8iy7v8
+- report
+- task-1-presentation
+- task-2-portfolio
+- task-3-platforms
+- task-4-email-etiquette
+- task-5-cybercrime
 
 ---
 
-## Module Summary
-
-### Task 1
-Created an infographic explaining digital literacy concepts using Canva.
-
-### Task 2
-Built professional profiles on platforms like GitHub, LinkedIn.
-
-### Task 3
-Solved coding challenge and created Google Form quiz.
-
-### Task 4
-Drafted professional emails and created social media checklist.
-
-### Task 5
-Researched cybercrime and created prevention guide.
+## Important Links
+- Google Form Quiz (Task 3): https://forms.gle/yAiL6GVj1mE8iy7v8
+- LinkedIn url : www.linkedin.com/in/manu-30-singhx
 
 ---
 
-## 📁 Report
-Full report available in `/report` folder.
+## Task Summaries
+
+### Task 1 – Digital Literacy Infographic
+Created an infographic using Canva to explain digital literacy concepts such as safe internet practices, useful tools, and professional online presence in a visually appealing format.
+
+---
+
+### Task 2 – Student Digital Portfolio
+Developed profiles on platforms like GitHub, LinkedIn, and Stack Overflow to build a professional digital presence and showcase learning goals.
+
+- LinkedIn url : www.linkedin.com/in/manu-30-singhx
+---
+
+### Task 3 – Coding & Collaboration Platforms
+Completed a beginner coding challenge and created a Google Form quiz to spread awareness about digital literacy. Also explored how these tools help in learning and collaboration.
+
+---
+
+### Task 4 – Email Etiquette
+Drafted professional emails and created a checklist of social media do’s and don’ts to understand proper online communication.
+
+---
+
+### Task 5 – Cybercrime Awareness
+Researched UPI fraud and created a case study along with a prevention checklist to promote safe online practices.
+
+---
+
+## Project Report
+The detailed report for this project is available in the `report/` folder.
+
+---
+
+## Learning Outcomes
+- Improved understanding of digital literacy concepts  
+- Learned to use tools like Canva, GitHub, and Google Forms  
+- Developed professional communication skills  
+- Gained awareness about cyber safety and online responsibility  
+
+---
+
+## Acknowledgment
+This project was completed as part of the Digital Literacy course at VIT Bhopal University.
